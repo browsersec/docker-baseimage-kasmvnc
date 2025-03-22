@@ -426,5 +426,5 @@ RUN \
 COPY /root /
 
 # ports and volumes
-EXPOSE 3000 3001
+EXPOSE 3000 3001 6902
 VOLUME /config
